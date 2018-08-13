@@ -1,3 +1,4 @@
-subdirs = [
-    "*"
-]
+hidl_package_root {
+    name: "vendor.hentai",
+    path: "hardware/hentai/interfaces",
+}
